@@ -1,4 +1,4 @@
-[sibyl](./repo/sibyl.gif)
+![sibyl](./repo/sibyl.gif)
 
 # Sibyl
 
